@@ -1,0 +1,60 @@
+.form-reg {
+    width: 900px;
+    background: #3b4652;
+    padding: 60px;
+    margin: auto;
+    margin-top: 50px;
+    border-radius: 4px;
+    font-family: 'calibri';
+    opacity: .95;
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+
+body{
+    background: url(/static/images/Material-Backgrounds-02-1920-x-1080.png) no-repeat center center fixed;
+    background-size: cover;
+
+}
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box ;
+}
+
+h1{
+	text-align: center; color: white;
+}
+h3{
+	text-align: center; color: #05ADF5;
+}
+p{
+    color: white;
+    padding: 2px 18px;
+}
+p.mas{
+    color: white;
+    padding: 2px 25px;
+}
+p.maso{
+    color: white;
+    padding: 2px 13px;
+}
+.seccion1 {
+    float: left;
+    width: 300px;
+    padding: 10px;
+  }
+.seccion3{
+    margin: auto;
+  width: 115px;
+  padding: 10px;
+  }
+.seccion2 {
+    float: right;
+  width: 120px;
+  padding: 10px;
+  }
